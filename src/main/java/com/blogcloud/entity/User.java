@@ -1,7 +1,9 @@
 package com.blogcloud.entity;
 
+import lombok.Data;
+
 import java.util.Date;
-public class User {
+public @Data class User {
 
     private Long id;
     private String nickname;
