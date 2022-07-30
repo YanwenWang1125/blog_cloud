@@ -1,4 +1,4 @@
-package com.example.demo1.server;
+package com.blogcloud.server;
 import com.google.auth.oauth2.ServiceAccountCredentials;
 import com.google.cloud.bigquery.*;
 import java.io.FileInputStream;

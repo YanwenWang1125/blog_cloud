@@ -1,4 +1,4 @@
-package com.example.demo1.controllor;
+package com.blogcloud.controllor;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
