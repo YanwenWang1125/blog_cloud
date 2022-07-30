@@ -35,7 +35,7 @@ public class gbqConnector {
         }
 
     }
-    // test
+    // test 1
     public Schema buildSchema(Map<String, LegacySQLTypeName> fieldMap){
         List<Field> fieldList = new ArrayList<>();
         fieldMap.forEach((key, value) -> fieldList.add(Field.of(key, value)));
